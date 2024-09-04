@@ -1,0 +1,40 @@
+body{
+    background: rgb(77, 76, 76);
+    font: normal 15pt arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    color: black;
+    width: 700px;
+    height: 700px;
+    margin: auto;
+    box-shadow: 10px 10px 10px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+input[type=button]{
+    width: 90px;
+    height: 40px;
+    font-size: 16px;
+    background: rgb(92, 241, 62);
+    box-shadow: 2px 2px 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    border: 2px;
+    font-weight: bold;
+}
+#res{
+    margin-top: 15px;
+}
+#added{
+    width: 180px;
+}
