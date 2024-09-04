@@ -2,7 +2,7 @@ const nume1 = document.querySelector('#num1')
 let addic = document.querySelector('#added')
 const result = document.querySelector('#res')
 let vetores = []
-
+ 
 function isnumero(n){
     if (Number(n) >= 1 && Number(n) <= 100){
         return true
